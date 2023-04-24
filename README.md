@@ -1,1 +1,7 @@
-# SNHU
+# SNHU-CS-255
+
+The DriverPass project was based on a theoretical small business looking to invest in a web-based system for providing student drivers with learning assets and access to personal training.
+
+I feel that my strongest piece in the project was the technical presentation. I have a solid grasp of how to utilize language appropriately when presenting, such as knowing when to tone down the technical sides of the content or how to make an otherwise boring presentation more engaging. However, the technical requirements section of the system requirements document is poor in content. I am not well versed in hardware and therefore find it difficult to speak to these types of requirements. Had I invested some time into research and reflecting upon previous courses in which we have discussed server technology and the like, the section may have been more up to par. 
+
+The users' needs are so integral to system design because keeping close to them eliminates risk. Resource waste and project time and cost can be heavily affected by development that turns in a direction that does not mesh with user needs. My approach to software design, as I am now, mainly consists of creating class diagrams. Many of the other tools that were utilized in this project were extremely valuable and would serve me well in the future, I simply need to refine my understanding of how they work and how to use them well. 
